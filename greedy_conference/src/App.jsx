@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 function App() {
-const 최대높이= 7000;
+const 최대높이= 4000;
 const 기본스크롤이동속도= 1;
 
   const [formData, setFormData] = useState([]);
